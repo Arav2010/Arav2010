@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arav2010
-- 👀 I’m interested in Web Development and Coding.
+- 👀 I’m interested in Web Development and Python.
 - 🌱 I’m currently learning Javascript and AI.
 - 📫 You can reach me by sending me a mail on arav.ashish.aaa5@gmail.com
 
