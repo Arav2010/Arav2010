@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arav2010
 - 👀 I’m interested in Web Development and Python.
 - 🌱 I’m currently learning Javascript, Machine Learning and AI.
+- 🎮 I am also a professional graphic designer.
 - 📫 You can reach me by sending me a mail on arav.ashish.aaa5@gmail.com
 
 <!---
